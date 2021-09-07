@@ -137,14 +137,14 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Peronality:
+                    Personality:
                     </h4>
                   <p className="m-0 text-sm">
+                  I am a very hardworking individual who aways strives for the very best. While at first I have a very reserved manner once you get to know me you will find that I am super outgoing and bubbly. I have a very optimistic outlook on life and tend to try and see the good in every situation.
                     </p>
                 </div>
               </div>
             </div>
-            I am a very hardworking individual who aways strives for the very best. While at first I have a very reserved manner once you get to know me you will find that I am super outgoing and bubbly. I have a very optimistic outlook on life and tend to try and see the good in every situation.
             <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">

@@ -67,7 +67,7 @@ const Testimonial = ({
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Vivian Greene</span>
-                  <span className="text-color-low"> / </span>
+                  <span className="text-color-low">  </span>
                   <span className="testimonial-item-link">
                     <a href="#0"></a>
                   </span>
@@ -84,9 +84,9 @@ const Testimonial = ({
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Michael Jordan</span>
-                  <span className="text-color-low"> / </span>
+                  <span className="text-color-low">  </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0"></a>
                   </span>
                 </div>
               </div>
@@ -101,9 +101,9 @@ const Testimonial = ({
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Albert Einstein</span>
-                  <span className="text-color-low"> / </span>
+                  <span className="text-color-low"> </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0"></a>
                   </span>
                 </div>
               </div>

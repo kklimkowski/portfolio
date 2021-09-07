@@ -50,7 +50,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Work Expereience / Volunteer Projects:',
+    title: 'Work Experience / Volunteer Projects:',
     paragraph: 'One of the biggest things that was stressed to me in high school was gaining work experience. I have had a multiude of different community service projects and internships that have ultimately helped me grow as an individual. Through these various activites I have learned the importance of hard work, dedication, and most importantly the affect one person can make on the world.'
   };
 
