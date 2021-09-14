@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Hometown:
                     </h4>
                   <p className="m-0 text-sm">
-                   I am orginally from Harrah, Oklahoma which is a small town located 30 minutes from the more commonly known Oklahoma City. While Harrah is a tiny town that has more Dollar General stores than actual restaurants it is the place that has initially shaped who I am as a person. 
+                   I am from a small town known as Harrah, Oklahoma. 
                     </p>
                 </div>
               </div>

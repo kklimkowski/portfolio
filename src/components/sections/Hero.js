@@ -65,15 +65,15 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                 A short and sweet profile to let the world know a little bit more about who I am!
+                 A way to let the world know a little bit more about me!
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Get started
+                   Keeping Up With Katie (Weekly Vlog)
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
+                    My Life Story (So Far)
                     </Button>
                 </ButtonGroup>
               </div>

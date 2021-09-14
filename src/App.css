@@ -1,17 +1,19 @@
 * {
      /* background-color: #fff !important;  */
-    color: #000 !important 
+    color: #000 !important
 }
 
 h1 {
-    color: #000 !important;
+    color: #347 !important;
     font-size: 70px !important;
 
 }
 
 a.button-dark {
-    background-color: #347 !important;
-    color: #fff !important;
+    background-color: #333 !important;
+    font-size:16px !important;
+    font-weight: bold;
+    color: #ccc !important;
 }
 
 
@@ -24,12 +26,18 @@ background-color: #fff
 }
 
 h2 {
-    color:#000 !important;
+    font-weight: bolder !important;
+    font-size: 40px !important;
+    color:#347 !important;
 
 }
 
 a.button-primary {
-    Background-color: #999 !important;
+    Background-color: #333 !important;
+    color: #ccc !important;
+    font-size:16px !important;
+    font-weight: bold
+    
 }
 
 h3.mt-0 {
@@ -44,6 +52,7 @@ div.cta-inner {
 
 h3.m-0 {
     background-color: #347 !important;
+    color:#000 !important;
     font-weight: 900 !important;
     font-size: 40px !important
 }
@@ -64,30 +73,25 @@ p.m-0.mb-32.reveal-from-bottom.is-revealed {
 
 div.text-xxs {
     font-size: 15px;
+    color: #000 !important;
 }
 
-@keyframes custom{
-    20% {
-        color:#000;
-        transform:rotate(360deg);
-    }
-    100% {
-        color: #999;
-        transform:rotate(360deg);
-    }
-}
-
-div.tiles-item-inner {
-    animation: 10s custom infinite !important
-}
 
 p.text-sm.mb-0 {
-    font-weight: 800!important;
+    font-weight:bold!important;
+    font-size: 20px;
     transform:translate(22px);
+    color: #ccc !important
 }
 
 span.testimonial-item-name.text-color-high {
-    font-weight: 800 !important;}
+    color: #ccc !important;
+    font-weight:bold !important;
+    font-size: 20px !important;
+}
 
+input.form-input {
+    font-weight:bold
+}
 
 
