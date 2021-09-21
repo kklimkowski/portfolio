@@ -95,3 +95,33 @@ input.form-input {
 }
 
 
+.easter-egg-avocado {
+    color: #fff !important;
+    font-weight: bolder;
+    background-color:#ccc;
+    max-width: 55vmax;
+    padding: 1rem;
+}
+
+.inner-avocado {
+    color:#000 !important;
+    font-weight:normal;
+}
+
+.title-page {
+    font-weight:bold !important;
+    font-size: 10em !important;
+}
+
+
+.spacing {
+    padding-top:1rem
+}
+
+.nav {
+    border: 1rem solid !important;
+    border-width: 1vw !important;
+    text-align: center !important;
+
+}
+
